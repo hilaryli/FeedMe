@@ -1,0 +1,2 @@
+rootProject.name='FeedMe'
+include ':app'
